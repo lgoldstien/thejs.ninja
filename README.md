@@ -1,4 +1,3 @@
-thjsninja
-=========
+## Nothing to see here...
 
-My js ninja knowledge site.
+You won't find anything of note in this repo, this is used to store the website [theJS.ninja](http://thsjs.ninja)
